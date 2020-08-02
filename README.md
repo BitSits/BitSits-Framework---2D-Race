@@ -1,3 +1,5 @@
+![](https://github.com/Bitsits/2D-Race-Assets/raw/master/Graphics/Road_Fighter_Player.png)
+
 2D Race
 ===
 Troubleshooting
